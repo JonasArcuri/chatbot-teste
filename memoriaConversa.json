@@ -1,0 +1,43 @@
+{
+  "554788814411@c.us": {
+    "status": "ativo",
+    "historico": [
+      {
+        "type": "user",
+        "text": "teste",
+        "timestamp": "2025-05-08T13:33:40.614Z"
+      },
+      {
+        "type": "user",
+        "text": "1",
+        "timestamp": "2025-05-08T13:33:44.931Z"
+      },
+      {
+        "type": "user",
+        "text": "2",
+        "timestamp": "2025-05-08T13:34:12.774Z"
+      },
+      {
+        "type": "user",
+        "text": "Ok",
+        "timestamp": "2025-05-08T13:34:18.813Z"
+      },
+      {
+        "type": "user",
+        "text": "Finalizar",
+        "timestamp": "2025-05-08T13:34:23.242Z"
+      },
+      {
+        "type": "user",
+        "text": "5",
+        "timestamp": "2025-05-08T13:34:27.960Z"
+      },
+      {
+        "type": "user",
+        "text": "4",
+        "timestamp": "2025-05-08T13:34:31.890Z"
+      }
+    ],
+    "escolha": "Serviços"
+  }
+}
